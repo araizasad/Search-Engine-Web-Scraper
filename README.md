@@ -1,3 +1,2 @@
 # Search-Engine-Web-Scraper
-
-asfijaesifjeasifjfesa
+During the pandemic, the demand for electronic items such as monitors and graphics cards had seen a massive increase in demand. Therefore, the motivation for this project was quite simple. I wanted to create an easy to use type of search engine that has a varity of websites to choose from in which you can search any item that you want and will receive information on that item (ie. price, availability, name, etc)  
